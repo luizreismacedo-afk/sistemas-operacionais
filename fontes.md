@@ -1,17 +1,51 @@
-## 📚 Fontes utilizadas
+# 📚 Fontes Utilizadas
+---
 
-As seguintes fontes foram selecionadas e utilizadas como base
-para o estudo no NotebookLM:
+## 🎯 Utilização das fontes
 
-1. [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-   - Remzi H. Arpaci-Dusseau e Andrea C. Arpaci-Dusseau.
-   - Fonte principal para os conceitos fundamentais de Sistemas Operacionais.
+As fontes foram utilizadas no NotebookLM como base para pesquisas, elaboração
+e aperfeiçoamento dos prompts e construção do guia de estudos.
 
-2. [CS 537 – Introduction to Operating Systems](https://pages.cs.wisc.edu/~bart/cs537.html)
-   - University of Wisconsin-Madison.
-   - Material acadêmico utilizado como apoio ao estudo.
+Os materiais foram consultados com o objetivo de organizar e revisar os principais
+conceitos relacionados aos Sistemas Operacionais.
+---
 
-3. [Linux Kernel Documentation](https://docs.kernel.org/core-api/index.html)
-   - Documentação oficial do Linux Kernel.
-   - Utilizada para complementar os conceitos relacionados ao funcionamento
-     interno do sistema operacional.
+## 1. Sistemas Operacionais — UECE / eduCAPES
+
+FERNANDES, Lorenna Maia. *Sistemas Operacionais*. 3. ed. Fortaleza:
+EdUECE, 2015.
+
+Material utilizado como fonte principal do projeto. Aborda conceitos como processos,
+gerenciamento de memória, sistemas de arquivos, gerenciamento de dispositivos e
+evolução dos Sistemas Operacionais.
+
+**Fonte:**  
+https://educapes.capes.gov.br/bitstream/capes/204087/2/Livro_Computacao_Sistemas%20Operacionais.PDF
+
+---
+
+## 2. Apostila de Sistemas Operacionais — USP / IME
+
+Material didático disponibilizado pelo Instituto de Matemática e Estatística da
+Universidade de São Paulo (IME-USP).
+
+Utilizado como fonte complementar para o estudo dos conceitos e do funcionamento
+dos Sistemas Operacionais.
+
+**Fonte:**  
+https://www.linux.ime.usp.br/~albasalo/Apostila/apostila.pdf
+
+---
+
+## 3. Sistemas Operacionais — IFRN
+
+Material didático disponibilizado pelo Instituto Federal do Rio Grande do Norte
+(IFRN).
+
+Utilizado como fonte complementar para a compreensão dos conceitos introdutórios
+de Sistemas Operacionais e dos diferentes sistemas utilizados em computadores
+e dispositivos.
+
+**Fonte:**  
+https://docentes.ifrn.edu.br/tadeuferreira/disciplinas/2016.1/sistemas-operacionais/Aula01.pdf/at_download/file
+
